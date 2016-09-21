@@ -4,7 +4,7 @@
 In the terminal, install the following packages.
 ```
 $ npm init --yes
-$ npm install --save babel-core babel-loader babel-preset-react react react-dom webpack
+$ npm install --save babel-core babel-loader babel-preset-react babel-preset-es2015 react react-dom webpack
 ```
 The command above will save the packages as dependencies in your package.json file.
 ```js

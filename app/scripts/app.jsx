@@ -1,4 +1,4 @@
-var CongressPerson = require("./congress.jsx")
+var CongressPerson = require("./congress")
 var ReactDOM = require('react-dom')
 var React = require('react')
 
